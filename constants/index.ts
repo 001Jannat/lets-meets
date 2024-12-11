@@ -33,7 +33,7 @@ export const sidebarLinks = [
   {
     imgURL: '/icons/quiz.svg',
     route: '/quiz',
-    label: 'Quiz',
+    label: 'Gemini',
   },
 ];
 
